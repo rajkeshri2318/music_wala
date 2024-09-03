@@ -1,4 +1,4 @@
-'use client'
+"use client"
 function page() {
   return (
     <div className="mt-36 text-center m-4">
